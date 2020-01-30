@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fuzzy-words/static/css/main.6282a1be.chunk.css",
+    "main.js": "/fuzzy-words/static/js/main.d586f028.chunk.js",
+    "main.js.map": "/fuzzy-words/static/js/main.d586f028.chunk.js.map",
+    "runtime-main.js": "/fuzzy-words/static/js/runtime-main.ca3ad55c.js",
+    "runtime-main.js.map": "/fuzzy-words/static/js/runtime-main.ca3ad55c.js.map",
+    "static/js/2.1e371784.chunk.js": "/fuzzy-words/static/js/2.1e371784.chunk.js",
+    "static/js/2.1e371784.chunk.js.map": "/fuzzy-words/static/js/2.1e371784.chunk.js.map",
+    "index.html": "/fuzzy-words/index.html",
+    "precache-manifest.fc2abec3f5387f01aee9cc702b476170.js": "/fuzzy-words/precache-manifest.fc2abec3f5387f01aee9cc702b476170.js",
+    "service-worker.js": "/fuzzy-words/service-worker.js",
+    "static/css/main.6282a1be.chunk.css.map": "/fuzzy-words/static/css/main.6282a1be.chunk.css.map",
+    "static/js/2.1e371784.chunk.js.LICENSE": "/fuzzy-words/static/js/2.1e371784.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca3ad55c.js",
+    "static/js/2.1e371784.chunk.js",
+    "static/css/main.6282a1be.chunk.css",
+    "static/js/main.d586f028.chunk.js"
+  ]
+}
