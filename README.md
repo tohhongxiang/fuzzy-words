@@ -1,6 +1,7 @@
 # Resources
 
 Simple implementation of various fuzzy word matching algorithms
+[Demo](https://tohhongxiang123.github.io/fuzzy-words/)
 
 1. [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance)
 2. [Trigrams similarity](https://stackoverflow.com/questions/43156987/postgresql-trigrams-and-similarity)
